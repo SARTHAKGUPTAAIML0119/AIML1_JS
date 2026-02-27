@@ -107,11 +107,11 @@
 // console.log(person);
 // document.write(person["name"])
 
-var person2= new Object();
-person2.name="bombastic";
-person2.age=24;
-person2.adress={};
-person2.adress.street="nehru";
-person2['adress']['flatno']=201;
-console.log(person2);
+// var person2= new Object();
+// person2.name="bombastic";
+// person2.age=24;
+// person2.adress={};
+// person2.adress.street="nehru";
+// person2['adress']['flatno']=201;
+// console.log(person2);
 
