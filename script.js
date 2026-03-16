@@ -135,3 +135,20 @@
 //     document.write("<h1>PRACTICE</h1>");
 //     document.close();
 // }
+
+// function onMouseOver(){
+//     console.log("On Mouse Over");
+// }
+
+// function onMouseOut(){
+//     console.log("On Mouse Out");
+// }
+
+// function onMouseMove(){
+//     console.log("On Mouse Move");
+// }
+
+// const x=document.querySelector('input');
+// x.addEventListener('focus',onhandlefocus);
+// x.addEventListener('blur',onhand)
+
