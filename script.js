@@ -152,3 +152,18 @@
 // x.addEventListener('focus',onhandlefocus);
 // x.addEventListener('blur',onhand)
 
+// var text='{"employess":['+'{"firstName":"John",lastName":"Doe"}]}';
+// obj=JSON.parse(text);
+// document.getElementById("demo").innerHTML=obj.employees[0].firstName+" "+obj.employees[0].lastName;
+
+// var promise = new Promise((resolve,reject)=>{
+//     let success=true;
+//     if(success)
+//         resolve("Data Loaded");
+//     else
+//         reject("Error Occurred");
+// });
+
+// promise.then(result=>console.log(result)).catch(error=>console.log(error));
+
+
