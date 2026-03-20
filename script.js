@@ -167,3 +167,21 @@
 // promise.then(result=>console.log(result)).catch(error=>console.log(error));
 
 
+// try{
+//     var x=y+20;
+// }catch(error){
+//     console.log(error.message);
+// }
+
+// localStorage.setItem("name","jeet");
+
+// var name1= localStorage.getItem("name");
+// console.log(name1);
+
+// localStorage.removeItem("name");
+
+// var user={name:"keet",age:50};
+// localStorage.setItem("user",JSON.stringify(user));
+
+// var data=JSON.parse(localStorage.getItem("user"));
+// console.log(data.name);
